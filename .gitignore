@@ -1,0 +1,15 @@
+.gradle/
+build/
+*.iml
+.idea/
+.vscode/
+target/
+!/gradle/wrapper/gradle-wrapper.jar
+.DS_Store
+*.log
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+.vercel
